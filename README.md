@@ -35,3 +35,40 @@ Desarrollar una aplicación móvil funcional que implemente las operaciones bás
 
 ## 📂 Estructura del Proyecto
 
+
+---
+
+## 🔐 Pruebas de Seguridad
+
+Se llevaron a cabo pruebas de seguridad como parte del desarrollo de la aplicación:
+
+### ✅ Pruebas Estáticas (SAST)
+- Herramienta utilizada: **MobSF (Mobile Security Framework)**  
+- Evaluación de permisos, configuración y posibles vulnerabilidades.  
+- Resultado: No se detectaron vulnerabilidades críticas.
+
+### ✅ Pruebas Dinámicas (DAST)
+- Ejecución de la aplicación en un emulador / simulador móvil.
+- Validación del flujo de navegación y manejo de errores.
+- Resultado: Funcionamiento estable sin fallos graves.
+
+---
+
+## 📦 Archivo APK
+
+El archivo `SmartRestaurant_v1.0.apk` corresponde a la versión compilada de la aplicación y fue utilizado para realizar pruebas dinámicas en un entorno controlado.
+
+---
+
+## 📚 Uso Académico
+
+Este proyecto fue desarrollado **exclusivamente con fines académicos** como parte del Proyecto Integrador de la UVM.
+
+---
+
+## 👨‍🎓 Autor
+
+**Daniel Brena Barroso**  
+Universidad del Valle de México  
+2025
+
